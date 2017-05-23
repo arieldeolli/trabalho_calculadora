@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="operando1">Operating 1</string>
+    <string name="operando2">Operating 2</string>
+    <string name="soma">Sum</string>
+    <string name="subtracao">Subtraction</string>
+    <string name="multiplicacao">multiplication</string>
+    <string name="divisao">Division</string>
+    <string name="calcular">Calculate</string>
+    <string name="resultado">Result</string>
+</resources>
